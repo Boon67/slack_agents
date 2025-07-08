@@ -1,0 +1,9 @@
+slack_bolt 
+requests 
+pandas 
+snowflake-snowpark-python 
+snowflake-connector-python
+snowflake-core 
+python-dotenv 
+sqlalchemy 
+snowflake-sqlalchemy
