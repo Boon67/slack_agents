@@ -43,6 +43,8 @@ A Slack bot for natural language interaction with your Snowflake data warehouse,
 - Copy the Bot User OAuth Token and save it in a place you can easily find
 - Navigate to App Home and check "Allow users to send Slash commands and messages from the messages tab".
 
+Note: You can use the datagent.env to run the application locally for testing. `python slackapp.py`
+
 
 ### Setup DB Repository and Images
  - Define your semantic model as a YAML file in a stage.
